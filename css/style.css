@@ -265,6 +265,12 @@ iframe {
 		text-decoration: underline;
 	}
 
+.col-full {
+	
+}
+
+
+
 	.col-left-double {
 		float: left;
 		width: 64%;
@@ -275,6 +281,16 @@ iframe {
 		float:right;
 		width: 32%;
 	}
+
+.col-left-single {
+	float: left;
+	width: 32%;
+}
+
+.col-center-single {
+	float: center;
+	width: 32%;
+}
 
 [class*="col-"] {
 	background-color: white;
