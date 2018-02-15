@@ -277,7 +277,7 @@ iframe {
 	}
 
 .col-right-single {
-		float:right;
+		float: left;
 		width: 32%;
 	}
 
