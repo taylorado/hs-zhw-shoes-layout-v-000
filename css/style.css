@@ -265,13 +265,13 @@ iframe {
 		text-decoration: underline;
 	}
 
-	.col-1 {
+	.col-left-double {
 		float: left;
 		width: 64%;
 
 	}
 
-.col-2 {
+.col-right-single {
 		float:right;
 		width: 32%;
 	}
