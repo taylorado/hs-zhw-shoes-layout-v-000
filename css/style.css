@@ -264,6 +264,12 @@ iframe {
 		text-decoration: underline;
 	}
 
+	#summergrass {
+		float: left;
+		width: 66%
+		
+	}
+
 /********** Details **********/
 
 #details {
