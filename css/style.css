@@ -277,7 +277,7 @@ iframe {
 	}
 
 [class*"col-"] {
-	background-color: white;
+	background: white;
 
 }
 
