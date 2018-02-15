@@ -266,17 +266,20 @@ iframe {
 	}
 
 	.col-1 {
-		background-color: white;
 		float: left;
 		width: 64%;
 
 	}
 
 .col-2 {
-		background: white;
 		float:right;
 		width: 32%;
 	}
+
+[class*"col-"] {
+	background-color: white;
+	
+}
 
 /********** Details **********/
 
