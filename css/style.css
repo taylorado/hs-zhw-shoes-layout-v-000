@@ -265,14 +265,14 @@ iframe {
 		text-decoration: underline;
 	}
 
-	#summergrass {
+	.col-1 {
 		background-color: white;
 		float: left;
 		width: 64%;
 
 	}
 
-	#shoearchive {
+.col-2 {
 		background: white;
 		float:right;
 		width: 32%;
