@@ -289,7 +289,7 @@ iframe {
 
 .col-center-single {
 	width: 32%;
-	margin: auto;
+	margin:inherit;
 }
 
 [class*="col-"] {
