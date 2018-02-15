@@ -284,6 +284,7 @@ iframe {
 	}
 
 .col-left-single {
+	clear:both;
 	float: left;
 	width: 32%;
 	margin: 0 0 20px;
