@@ -256,7 +256,7 @@ iframe {
 
 	section {
 		padding: 20px;
-		background: transparent;
+		background-color: white;
 	}
 
 	section a {
@@ -297,7 +297,7 @@ iframe {
 }
 
 [class*="col-"] {
-	background-color: white;
+	
 
 }
 
