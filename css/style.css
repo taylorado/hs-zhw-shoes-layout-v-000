@@ -265,19 +265,19 @@ iframe {
 		text-decoration: underline;
 	}
 
-	.col-12 {
+	.col-1 {
 		float: left;
 		width: 64%;
 
 	}
 
-.col-3 {
+.col-2 {
 		float:right;
 		width: 32%;
 	}
 
-[class*"col-"] {
-	background: white;
+[class*"col"] {
+	background-color: white;
 
 }
 
