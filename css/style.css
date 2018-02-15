@@ -288,6 +288,7 @@ iframe {
 }
 
 .col-center-single {
+	float: left;
 	width: 32%;
 }
 
