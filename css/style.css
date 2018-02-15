@@ -273,6 +273,7 @@ iframe {
 	.col-left-double {
 		float: left;
 		width: 66%;
+		margin: 0 1% 20px 0;
 
 	}
 
