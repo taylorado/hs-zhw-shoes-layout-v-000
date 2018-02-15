@@ -278,17 +278,17 @@ iframe {
 
 .col-right-single {
 		float:right;
-		width: 32%;
+		width: 31.333%;
 	}
 
 .col-left-single {
 	float: left;
-	width: 32%;
+	width: 32.333%;
 }
 
 .col-center-single {
 	float: left;
-	width: 32%;
+	width: 31.333%;
 }
 
 [class*="col-"] {
